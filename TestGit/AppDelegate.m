@@ -25,6 +25,8 @@
     // Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
     //added by souvik.
     //added another line.
+    //nothing.
+
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
